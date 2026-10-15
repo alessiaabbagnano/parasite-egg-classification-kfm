@@ -16,9 +16,9 @@ Il lavoro comprende analisi dei dati, suddivisione stratificata, data augmentati
 I risultati sono relativi all'**hold-out interno**, **non** alla private leaderboard Kaggle. La separazione è stratificata per classe ma non per sessione di scansione; perciò le prestazioni su sessioni totalmente nuove richiedono ulteriore verifica.
 
 ## Materiali
-Il notebook completo (.ipynb), la relazione tecnica PDF in italiano, il file LaTeX e i grafici sono pronti per essere aggiunti al repository. **Attualmente non sono pubblicati qui:** la competizione risulta ancora aperta ed è necessario verificare le regole di condivisione prima di rendere pubblica una soluzione. Dataset e checkpoint non verranno redistribuiti.
+Il notebook completo (.ipynb), la relazione tecnica PDF
 
-**Link notebook originale su Kaggle:** da inserire dopo aver ricevuto il relativo URL.
+**Link notebook originale su Kaggle:** (https://www.kaggle.com/code/alessiaabbagnanoo/notebookpulito)
 
 ## Competenze
 Python, PyTorch, Computer Vision, Deep Learning, CNN, Transfer Learning, Fine-tuning, Cross-Validation, Ensemble Learning, Test-Time Augmentation, valutazione di modelli e analisi degli errori.
